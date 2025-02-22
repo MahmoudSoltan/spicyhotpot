@@ -9,21 +9,21 @@ const PopularDishes = () => {
     const menu = [
         {
             id:1,
-            pizza: hotpot1,
+            hotpot: hotpot1,
             name: "Mushrooms HotPot",
             desc: "Healthy hot pot meal with mushrooms and beef.",
             rating: 4
         },
         {
             id:2,
-            pizza: hotpot2,
+            hotpot: hotpot2,
             name: "Fresh HotPot",
             desc: "Hot pot, a communal culinary experience where diners cook fresh ingredients together.",
             rating: 4
         },
         {
             id:3,
-            pizza: hotpot4,
+            hotpot: hotpot4,
             name: "Shrimp HotPot",
             desc: "High Quality Spicy Shrimp Stew in Coconut Sauce, Delicious Food .",
             rating: 4
